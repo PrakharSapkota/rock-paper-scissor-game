@@ -1,1 +1,2 @@
 # rock-paper-scissor-game
+This is a simple rock,paper,scissor game that is played on console. It has no UI. It's my first JS project so just checking out how functions works and how to call one functions inside another. This may be helpful to those who are just a beginner trying to develop their own logic or get started with functions.
